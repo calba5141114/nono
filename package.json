@@ -1,0 +1,13 @@
+{
+  "name": "nono",
+  "version": "1.0.0",
+  "description": "Rest API example",
+  "main": "index.js",
+  "repository": "https://github.com/calba5141114/nono.git",
+  "author": "Carlos A Alba",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.1.1"
+  }
+}
